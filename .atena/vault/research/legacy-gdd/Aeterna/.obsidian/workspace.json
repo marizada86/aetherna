@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "d8d3e76d525db2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4736431df1144de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14a37bbdd548bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sistema Político e Urbano/Idiomas e Segurança de Cartas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idiomas e Segurança de Cartas"
+            }
+          }
+        ]
+      },
+      {
+        "id": "49598e29ffbf8f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9c07b1393f08ccd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f029f350fd38ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fbc16a382a9ccb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e3f30c62b86aa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0133e7aef8219d24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "39fb139e13d762de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9da0b80e676af19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "23fec6f59aca471f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5bf6c811b81ade8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "26fe9c1a7a424af9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "7cc2e3eaa178109d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fabd1228637e0b70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "a46842e8df1dd15d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "e9c07b1393f08ccd",
+  "lastOpenFiles": [
+    "02 - Sistema Político e Urbano/Idiomas e Segurança de Cartas.md",
+    "02 - Sistema Político e Urbano/Sistema de Comunicação e Espionagem.md",
+    "05 - Sistema de Combate e Facções/Dinâmica de Morte e Respawn.md",
+    "02 - Sistema Político e Urbano/Política de Guerra e Expansão.md",
+    "00 - Dashboad/Índice Principal.md",
+    "03 - Economia, Mercado e VIP/O Sistema de Impostos e Ouro.md",
+    "03 - Economia, Mercado e VIP/Monetização e Casa VIP.md",
+    "01 - Core Loop/Sistema de Coleta e Minigames.md",
+    "02 - Sistema Político e Urbano/Reintegração de Posse e Lotes.md",
+    "02 - Sistema Político e Urbano/Zoneamento Urbano e Zonas de Elite.md",
+    "05 - Sistema de Combate e Facções/Bandidos e Full Loot.md",
+    "05 - Sistema de Combate e Facções/Sistema de Combate 3 Habilidades.md",
+    "06 - Temporadas e Lore/Temporadas e Hard Wipes.md",
+    "04 - Logística e Mundo Aberto/Logística de Caravanas.md",
+    "02 - Sistema Político e Urbano/A Prefeitura e o Conselho.md",
+    "01 - Core Loop/A Fase Nômade.md",
+    "Bem-vindo.md",
+    "Sem título.md",
+    "07 - Arquitetura Técnica",
+    "06 - Temporadas e Lore",
+    "05 - Sistema de Combate e Facções",
+    "04 - Logística e Mundo Aberto",
+    "03 - Economia, Mercado e VIP",
+    "02 - Sistema Político e Urbano",
+    "01 - Core Loop",
+    "00 - Dashboad"
+  ]
+}

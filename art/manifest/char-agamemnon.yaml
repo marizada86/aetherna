@@ -1,0 +1,15 @@
+id: char-agamemnon
+category: character
+name: Agamémnon
+canto_ref: 1
+source_refs:
+  - "Ilíada, Canto 1 (coração de negra raiva, olhos como fogo, olhar nefasto)"
+  - "Ilíada, Canto 1 (insultos de Aquiles: pesado de vinho; base para traços de bebedor)"
+  - "Ilíada, Canto 2 (cetro de ouro, túnica macia, capa, espada cravejada de prata)"
+  - "Ilíada, Canto 3 (alto, forte, nobre, 'parece um rei')"
+era_notes: "c. 1200 a.C., micênico (DEC-005)"
+silhouette: "rei maduro, alto, barbudo, cetro de ouro"
+palette: ['deep purple', 'gold', 'indigo', 'bronze gold']
+gameplay: {scale_m: 1.9, needs_rig: true}
+concept_status: pending
+model_status: pending

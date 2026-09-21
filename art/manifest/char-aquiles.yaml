@@ -1,0 +1,14 @@
+id: char-aquiles
+category: character
+name: Aquiles
+canto_ref: 1
+source_refs:
+  - "Ilíada, Canto 1 (cabelo louro, peito hirsuto, espada de punho de prata em bainha junto à coxa)"
+  - "Ilíada, Canto 24 (alto e belo)"
+era_notes: "c. 1200 a.C., micênico (DEC-005)"
+silhouette: "jovem alto e atlético, cabelo louro longo solto"
+palette: ["madder red", "indigo", "bone", "bronze gold", "silver hilt"]
+gameplay: {scale_m: 1.9, needs_rig: true}
+concept_status: pending
+model_status: pending
+notes: "Pose neutra de referência. A pose de mão no punho da espada é do painel p13 da HQ (outro asset)."

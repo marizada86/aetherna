@@ -1,0 +1,14 @@
+id: char-odisseu
+category: character
+name: Odisseu
+canto_ref: 1
+source_refs:
+  - "Ilíada, Canto 1 (comanda a nau de 20 remadores, devolve Criseida, conduz a hecatombe)"
+  - "Ilíada, Canto 3 (uma cabeça mais baixo que Agamémnon, mais largo de ombros e peito; olhos no chão ao falar)"
+  - "Decisão do dono: barba escura e cabelo cacheado (Odisseia)"
+era_notes: "c. 1200 a.C., micênico (DEC-005)"
+silhouette: "baixo, atarracado, ombros largos, barba escura, cabelo cacheado"
+palette: ['ochre', 'olive', 'bronze gold']
+gameplay: {scale_m: 1.65, needs_rig: true}
+concept_status: pending
+model_status: pending

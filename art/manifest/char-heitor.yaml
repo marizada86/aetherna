@@ -1,0 +1,15 @@
+id: char-heitor
+category: character
+name: Heitor
+canto_ref: 1
+source_refs:
+  - "Ilíada, Canto 6 (elmo de crina de cavalo, escudo bossudo alto, lança de onze cúbitos com anel de ouro)"
+  - "Ilíada, Canto 22 (espada enorme sob o flanco; cabelos escuros, beleza)"
+  - "Decisão do dono: barba curta; paleta troiana (verde-azulado, creme, dourado)"
+  - "Heitor não aparece no Canto 1: usado na HQ troiana"
+era_notes: "c. 1200 a.C., micênico (DEC-005)"
+silhouette: "príncipe troiano, alto, elmo de crina, escudo em 8"
+palette: ['teal', 'cream', 'gold', 'bronze gold']
+gameplay: {scale_m: 1.9, needs_rig: true}
+concept_status: pending
+model_status: pending
